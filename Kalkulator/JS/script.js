@@ -1,6 +1,5 @@
-const addToDisplay = (value) => document.getElementById('display').value += value
-const clearDisplay = () => document.getElementById('display').value = ''
+const display = document.getElementById('display')
 
-const calc = () => {
-    document.getElementById('display').value = eval(document.getElementById('display').value)
-}
+const addToDisplay = (value) => display.value += value
+const clearDisplay = () => display.value = ''
+const calc = () => display.value = eval(display.value)
