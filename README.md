@@ -1,7 +1,7 @@
 # Rapport Python-JS 
-Dette er rapporten for mine løsninger på Handlelisten, Kalkulatoren og Spillet.
+Dette er rapporten for mine løsninger på <a href=#Handleliste>Handleliste</a>, <a href=#Kalkulator>Kalkulatoren</a> og <a href=#Spill>Spillet</a>.
 
-I denne oppgaven bestemte jeg meg for og splitte bruket av ChatGPT i 3, liten bruk av det for <a href=#Kalkulator>Kalkulatoren</a>, Moderat bruk av det for hnadlelisten og høyt bruk av det for <a href=#Spill>Spillet</a>. det står mere om hva jeg brukte ChatGPT til under hver av oppgavene
+I denne oppgaven bestemte jeg meg for og splitte bruket av ChatGPT i 3, liten bruk av det for <a href=#Kalkulator>Kalkulatoren</a>, Moderat bruk av det for <a href=#Handleliste>Handleliste</a> og høyt bruk av det for <a href=#Spill>Spillet</a>. det står mere om hva jeg brukte ChatGPT til under hver av oppgavene
 
 ## Kalkulator
 Bruk av ChatGPT: Liten
