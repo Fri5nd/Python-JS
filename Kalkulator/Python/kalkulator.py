@@ -1,1 +1,0 @@
-print(f"Result: {eval(input("Times = * \nAdd = + \nSubtract = - \nDivide = / \nInput the calculation: "))}")

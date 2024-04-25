@@ -8,21 +8,18 @@ const addToDisplay = (value) => {
     const secondLastChar = currentValue[currentValue.length - 2];
 
     if (!symbols.includes(value)) {
-        display.value += value
-        return
+        return display.value += value
     }
     if (currentValue === '') {
         if (value != '-') return
         else { 
-            display.value += value
-            return
+            return display.value += value
         }
     }
     else if (value == '*' && symbols.includes(lastChar)) {
         if (lastChar == '*' && secondLastChar == '*') return
         else if (lastChar != '*') return
-        display.value += value
-        return
+        return display.value += value
     }
     else if (symbols.includes(lastChar) && value !== '*') {
         return
