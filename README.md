@@ -15,7 +15,7 @@ Chat Link: https://chat.openai.com/share/dca28cff-c0a7-4567-aab3-e63b3519d6dd
 ## Handleliste
 Bruk av ChatGPT: Moderat
 
-Hva Brukte jeg ChatGPT til?
+Hva Brukte jeg ChatGPT til? <br>
 I Handlelisten brukte jeg ChatGPT til og lage HTML og CSS, jeg brukte den i tilleg til feilsøking og for og finne ut av hvordan local storage og andre ting fungerte.
 
 Chat Link: https://chat.openai.com/share/5a3c51e2-9b2a-47df-a2bf-881dc551db82
