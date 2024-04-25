@@ -1,7 +1,7 @@
 # Rapport Python-JS 
 Dette er rapporten for mine løsninger på Handlelisten, Kalkulatoren og Spillet.
 
-I oppgaven bestemte jeg meg for og splitte bruken av ChatGPT i 3, jeg brukte chatGPT bare til å lage css for kalkulatoren min, mens for Handlelisten brukte jeg ChatGPT til og lage både html og css, plus jeg brukte det til feilsøking. Jeg valgte så å bruke veldig mye ChatGPT i spillet, det var fordi jeg ikke kunne noe om pygame og hvordan man lager spill i python fra før av, også ville jeg finne ut av hvor lett/fort det hadde tatt og lage et spill med ingen erfaring med hjelp av ChatGPT
+I denne oppgaven bestemte jeg meg for og splitte bruket av ChatGPT i 3, liten bruk av det for Kalkulatoren, Moderat bruk av det for hnadlelisten og høyt bruk av det for Spillet. det står mere om hva jeg brukte ChatGPT til under hver av oppgavene
 
 ## Kalkulator
     Bruk av ChatGPT: Liten
